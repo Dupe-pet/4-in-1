@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/TI5GPdvy/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dupe-pet/Pet-spawnerV3/refs/heads/main/V3"))()
